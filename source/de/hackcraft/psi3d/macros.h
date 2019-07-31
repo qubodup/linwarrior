@@ -11,6 +11,7 @@
 
 #include "de/hackcraft/psi3d/ctrl.h"
 #include "de/hackcraft/psi3d/math3d.h"
+#include <"time.h">
 
 // Not a number: NaN
 // gcc supplies a NAN which is float but that may not be available everywhere.
